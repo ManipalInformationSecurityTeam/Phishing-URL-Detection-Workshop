@@ -1,0 +1,11 @@
+flask
+tensorflow
+json
+pickle
+numpy
+pandas
+seaborn
+nltk
+matplotlib
+scikit-learn
+xgboost
